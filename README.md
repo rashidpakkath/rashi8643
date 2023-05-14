@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 ## Education
 
 - [calicut univercity](link) - Degree, Field of study, Graduation year-2021
+- [GOHSS PATTAMBI](link) - +2, PASS of study, Graduation year-2018
+
 
 ## Contact me
 
