@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ## Experience
 
-- [Company 1](link) - Position, Date range
-- [Company 2](link) - Position, Date range
 
 ## Education
 
@@ -28,6 +26,6 @@ Here are some ideas to get you started:
 
 ## Contact me
 
-- Email: rashimuhammed86@.com
-- LinkedIn: 
+- Email: rashimuhammed86@mail.com
+- Instagram:rash___i__ 
 - Twitter:
