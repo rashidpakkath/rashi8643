@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Experience
+
+- [Company 1](link) - Position, Date range
+- [Company 2](link) - Position, Date range
+
+## Education
+
+- [calicut univercity](link) - Degree, Field of study, Graduation year-2021
+
+## Contact me
+
+- Email: rashimuhammed86@.com
+- LinkedIn: 
+- Twitter:
