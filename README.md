@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## Experience
-
+JUST STARTED MY TECH CAREER
+   I AM STUDYING
 
 ## Education
 
@@ -27,5 +28,5 @@ Here are some ideas to get you started:
 ## Contact me
 
 - Email: rashimuhammed86@mail.com
-- Instagram:rash___i__ 
+- Instagram: rash___i__ 
 - Twitter:
