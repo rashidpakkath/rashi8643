@@ -21,7 +21,7 @@ JUST STARTED MY TECH CAREER
 
 ## Education
 
-- [calicut univercity](link) - Degree, Field of study, Graduation year-2021
+- [calicut univercity](link) - Degree, Field of study, Complite year-2021
 - [GOHSS PATTAMBI](link) - +2, PASS of study, Graduation year-2018
 
 
