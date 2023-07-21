@@ -28,5 +28,5 @@ JUST STARTED MY TECH CAREER
 ## Contact me
 
 - Email: rashimuhammed86@mail.com
-- Instagram: rash___i__ 
+- Instagram:rash___i__ 
 - Twitter:
