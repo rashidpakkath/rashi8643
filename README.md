@@ -26,6 +26,6 @@ JUST STARTED MY TECH CAREER
 
 ## Contact me
 
-- Email: rashimuhammed86@mail.com
-- Instagram:rash___i__ 
-- Twitter:
+- Email     : rashipakkath86@mail.com
+- Instagram :rash___i__ 
+- LinkedIn  : linkedin.com/in/muhammed-rashid-p-583532247
