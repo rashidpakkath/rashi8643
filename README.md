@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Experience
-JUST STARTED MY TECH CAREER
+Just started my Tech Career,
    I am a SDE internship
 
 ## Education
